@@ -2,7 +2,7 @@
 
 ## PyBank Instructions
 
-In this challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses". (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
+In this challenge given a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses". 
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
 
@@ -21,7 +21,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
-You will be given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following:
+Given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Create a Python script that analyzes the votes and calculates each of the following:
 
 * The total number of votes cast
 
