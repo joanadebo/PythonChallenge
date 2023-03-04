@@ -1,4 +1,4 @@
-# Unit 3 Homework: Python
+Analyzing the financial data and polling results.
 
 ## PyBank Instructions
 
